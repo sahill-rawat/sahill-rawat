@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahill-rawat&label=Views&color=blue&style=plastic&style=for-the-badge" alt="sahill-rawat" /> </p>
 
 # 💫 About Me :
-- 😄 Pronouns: He/Him
+- 💻 Ex-SDE Intern @ Samsung R&D.
+- 💻 Upcoming Software Engineer @ Global Logic.
 - 🌱 I’m currently learning more about Full Stack Web Dev.
 - 📫 How to reach me: Check the social links below.
 
