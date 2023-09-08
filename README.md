@@ -6,10 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahill-rawat&label=Views&color=blue&style=plastic&style=for-the-badge" alt="sahill-rawat" /> </p>
 
 # 💫 About Me :
-- 💻 Ex-SDE Intern @ Samsung R&D.
 - 💻 Upcoming Software Engineer @ Global Logic.
+- 💻 Ex-SDE Intern @ Samsung R&D.
 - 🌱 I’m currently learning more about Full Stack Web Dev.
-- 📫 How to reach me: Check the social links below.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sahill_rawat) 
