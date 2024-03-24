@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahill-rawat&label=Views&color=blue&style=plastic&style=for-the-badge" alt="sahill-rawat" /> </p>
 
 # 💫 About Me :
+- 💻 Trainee SWE @ Global Logic.
 - 💻 Ex-SDE Intern @ Samsung R&D.
 - 🌱 I’m currently learning more about Full Stack Web Dev.
 
